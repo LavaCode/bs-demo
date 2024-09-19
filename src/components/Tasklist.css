@@ -5,6 +5,7 @@
 ul {
     text-align: left;
     margin-top: 50px;
+    list-style-type: none;
 }
 
 button {

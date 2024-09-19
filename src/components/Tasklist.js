@@ -6,7 +6,7 @@ const tasks = [
   { id: 1, name: '1: Maak een presentatie aan voor een XT1143, Landscape, HD. \nZorg dat alle media in een \"content\" map zit', 
            hint: 'Wanneer je een presentatie aanmaakt kan je voorinstellingen doen' },
   { id: 2, name: '2: Maak de presentatie. Zorg dat je in het menu kan schakelen tussen Nederlands en Engels, maak Engels de primaire taal. Aan het einde van het filmpje moet het beeld terug naar het menu.', 
-           hint: ': De primaire taal stel je niet ergens in, zorg simpelweg dat Engels je Home scherm is. \nJe hebt losse taalknoppen gekeregen, lekker handig.. Wellicht in een nieuwe zone stoppen?' },
+           hint: 'De primaire taal stel je niet ergens in, zorg simpelweg dat Engels je Home scherm is. \nJe hebt losse taalknoppen gekeregen, lekker handig.. Wellicht in een nieuwe zone stoppen?' },
   { id: 3, name: '3: je hebt die filmpjes nu wel een paar keer gezien, ook wel lekker als je direct uit het filmpje kan! \nGelukkig zijn daar (wederom) losse knoppen voor aangeleverd!', hint: 'Wacht weer een zone? Ik zeg ja.' },
   { id: 4, name: '4: Zorg dat je de knoppen voor het terugkeren tijdens de film niet ook op het menu ziet. Maar enkel tijdens een filmpje', hint: 'Zone........MESSAGE' },
   { id: 5, name: '5: Als bij het centrale systeem een alarm activeert willen we het geluid uit hebben, zorg dat de audio van de speler altijd met UDP bediend kan worden \nTest met Packetsender', hint: 'Nog een zone! feest!' },
