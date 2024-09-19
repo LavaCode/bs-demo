@@ -1,0 +1,37 @@
+.container {
+    margin: 50px;
+}
+
+ul {
+    text-align: left;
+    margin-top: 50px;
+}
+
+button {
+    margin: 5px 10px;
+}
+
+.hint {
+    background-color: rgb(239, 151, 0);
+    padding: '5px 10px';
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 100px;
+    cursor: 'pointer';
+    margin-right: '10px';
+}
+
+.done {
+    background-color: green;
+}
+
+.celebrate {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightblue;
+    text-align: 'center';
+    width: 50%;
+    margin: auto;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
